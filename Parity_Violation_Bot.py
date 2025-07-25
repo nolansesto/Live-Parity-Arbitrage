@@ -675,7 +675,7 @@ def main():
     print("   Example: Both at $625 strike, not $625 call and $630 put")
     print("="*80)
     
-    api_key = "EcqFgP0PhDpUCcxY6EuDncsAC4_OvXeA"
+    api_key = "API"
     
     # Most liquid symbols for best opportunities
     symbols = ['SPY', 'QQQ', 'IWM', 'AAPL', 'MSFT', 'NVDA', 'TSLA', 'AMD']
